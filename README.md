@@ -54,12 +54,9 @@
 * 🧠 Machine Learning & Deep Learning
 
 ---
+### 📈 GitHub Stats  
 
-### 📈 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darajayanth1998&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darajayanth1998&show_icons=true&locale=en" /></p>
+<img src="https://streak-stats.demolab.com?user=darajayanth1998&theme=tokyonight" />
 
 ---
 
